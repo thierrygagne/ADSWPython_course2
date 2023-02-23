@@ -10,7 +10,7 @@ This repository holds the Python code, the .html map output, and a .png figure s
 
 ### Data
 
-##### Data on sports facilities:
+##### Data on sports facilities
 
 URL: https://data.montreal.ca/dataset/60850740-dd83-47ee-9a19-13d674e90314/resource/2dac229f-6089-4cb7-ab0b-eadc6a147d5d/download/terrain_sport_ext.json
 
