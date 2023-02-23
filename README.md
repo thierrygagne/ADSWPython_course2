@@ -10,7 +10,8 @@ I made a map using Python and the Folium package to geolocalise sports facilitie
 
 This repository holds the Python code, the .html map output, and a .png figure showing their non-correlation.
 
-*N.B.* I should have adjusted the number of sports facilities by the size of the boroughs when checking out their associations, but I just need to move on!
+**N.B.** 
+I should have adjusted the number of sports facilities by the size of the boroughs when checking out associations, but I need to move on!
 
 ### Data
 
